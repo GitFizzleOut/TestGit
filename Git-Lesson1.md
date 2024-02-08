@@ -55,4 +55,4 @@ git init - инициализация гита.
 git branch - команда которая выводит ветки.
 branch - ветка
 git branch name - создание ветки
-github
+git checkout branch_name - команда для перехода на другую ветку, после удачного перехода в терминале увидите "Switched to branch 'branch_name'
