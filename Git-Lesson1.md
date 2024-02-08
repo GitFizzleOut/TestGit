@@ -54,3 +54,4 @@ git init - инициализация гита.
  ## Lesson 2
 git branch - команда которая выводит ветки.
 branch - ветка
+git branch name - создание ветки
