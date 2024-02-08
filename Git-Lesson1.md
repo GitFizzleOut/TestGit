@@ -57,3 +57,4 @@ branch - ветка
 git branch name - создание ветки
 git checkout branch_name - команда для перехода на другую ветку, после удачного перехода в терминале увидите "Switched to branch 'branch_name'
 git merge branche_name - команда для слияния веток. После изменений и коммита в редактируемой ветке, если перейти в ветку master, изменения не будут видны.
+git branch -d branch_name - команда для удаления уже слитой ветки.
